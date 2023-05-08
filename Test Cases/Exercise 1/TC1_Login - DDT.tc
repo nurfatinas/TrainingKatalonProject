@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Functionality</description>
+   <name>TC1_Login - DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f5af449-41e8-48e9-959a-0ca11a3f7a45</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e9aeb734-4718-4277-9720-aba5d73496d5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value>1-5</value>
+      </iterationEntity>
+      <testDataId>Data Files/loginData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e9aeb734-4718-4277-9720-aba5d73496d5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>ebabda07-b2b5-4f66-8645-1ce73d76434e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e9aeb734-4718-4277-9720-aba5d73496d5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>ca932c08-b2d6-49e4-ba3a-5c2c6d937396</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>208a5fd3-c4ea-4f08-9145-72e0270063ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ebabda07-b2b5-4f66-8645-1ce73d76434e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca932c08-b2d6-49e4-ba3a-5c2c6d937396</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.demoblaze.com/'</defaultValue>
+      <description></description>
+      <id>208a5fd3-c4ea-4f08-9145-72e0270063ba</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

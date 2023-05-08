@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af0291e7-4d1c-4769-8742-8bababbce682</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe\r\n'</defaultValue>
+      <description></description>
+      <id>ea9bcae4-5b02-45c7-8835-3890565b73ed</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword\r\n\r\n'</defaultValue>
+      <description></description>
+      <id>2e56f69c-ddae-4f9c-a1fb-78d02dd06528</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>123c6e0c-e7cf-4b66-9355-caabde513e85</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eb3833c4-0fe1-466c-a74e-7bbdcd59449b</id>
+      <masked>false</masked>
+      <name>program</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>538977ea-4aaf-4628-a3c3-1f33e3987e11</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>502e0521-f7d1-43fb-9b24-61ed830d8d9c</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

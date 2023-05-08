@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f75ffb34-abfe-4209-88bc-4d457853f873</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60cea364-1ab7-4d2f-bebe-68b616c03ed2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Password1234\r\n'</defaultValue>
+      <description></description>
+      <id>60cea364-1ab7-4d2f-bebe-68b616c03ed2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

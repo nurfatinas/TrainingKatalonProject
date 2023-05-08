@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Functionality</description>
+   <name>TC1_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb0647fc-18d3-4f97-a3d3-f6dbddcedac9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c8a9bba-caca-4a13-90bc-dd384afbf9a7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd87216c-9c9a-4eb1-a0d0-0f5a9df69dd8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8916bd3-1910-4b1c-be97-db6d15c14ea7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nurfatinas'</defaultValue>
+      <description></description>
+      <id>0c8a9bba-caca-4a13-90bc-dd384afbf9a7</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'o7uNPZvbUFC3MR98RNaaZw=='</defaultValue>
+      <description></description>
+      <id>cd87216c-9c9a-4eb1-a0d0-0f5a9df69dd8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.demoblaze.com/'</defaultValue>
+      <description></description>
+      <id>d8916bd3-1910-4b1c-be97-db6d15c14ea7</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

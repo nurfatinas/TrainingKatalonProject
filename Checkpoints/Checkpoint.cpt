@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>../../Downloads/cura_data.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>true</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2023-05-08T12:27:56.276</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+      <column-name>facility</column-name>
+      <column-name>program</column-name>
+      <column-name>date</column-name>
+      <column-name>comment</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "John Doe",
+      "checked": false
+    },
+    {
+      "value": "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM",
+      "checked": false
+    },
+    {
+      "value": "Tokyo CURA Healthcare Center",
+      "checked": false
+    },
+    {
+      "value": "Medicaid",
+      "checked": false
+    },
+    {
+      "value": "31/05/2023",
+      "checked": false
+    },
+    {
+      "value": "John Doe 1",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "John Doe",
+      "checked": false
+    },
+    {
+      "value": "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM",
+      "checked": false
+    },
+    {
+      "value": "Seoul CURA Healthcare Center",
+      "checked": false
+    },
+    {
+      "value": "None",
+      "checked": false
+    },
+    {
+      "value": "21/05/2023",
+      "checked": false
+    },
+    {
+      "value": "John Doe 2",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

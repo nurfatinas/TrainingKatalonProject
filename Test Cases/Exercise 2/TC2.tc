@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce339b69-fddd-41d3-b9bb-8eae4202bb57</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2eae7c32-63da-4c7e-8a71-096827b4263b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'p4y+y39Ir5MbquRwJNFicw=='</defaultValue>
+      <description></description>
+      <id>2eae7c32-63da-4c7e-8a71-096827b4263b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

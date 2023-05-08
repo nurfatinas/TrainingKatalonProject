@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Select picture</name>
+   <tag></tag>
+   <elementGuidId>513f56e9-fd97-486d-8085-b2536a36fcbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='userForm']/div[8]/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.form-file-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>03da3b40-4253-42f1-b06f-781ff6d359b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>uploadPicture</value>
+      <webElementGuid>9a11721c-ce3f-45de-8e25-a276c7ed7a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-file-label</value>
+      <webElementGuid>df8eb3bf-1047-4474-8b69-c1af7e2d6071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select picture</value>
+      <webElementGuid>298dd1ba-f118-4ee7-bebd-fbd1c6725752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userForm&quot;)/div[@class=&quot;mt-2 row&quot;]/div[@class=&quot;col-md-9 col-sm-12&quot;]/div[@class=&quot;form-file&quot;]/label[@class=&quot;form-file-label&quot;]</value>
+      <webElementGuid>fdc63da3-93eb-4db6-870f-ecebd7fc2d3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='userForm']/div[8]/div[2]/div/label</value>
+      <webElementGuid>d40d049e-d504-4260-b898-f40eb3a856c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Picture'])[1]/following::label[1]</value>
+      <webElementGuid>755bf021-8eae-4e4d-8bf8-77d3338b20d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Music'])[1]/following::label[2]</value>
+      <webElementGuid>a285f145-d579-4ac3-8864-67b4022d46b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current Address'])[1]/preceding::label[1]</value>
+      <webElementGuid>61644e59-4b0b-4627-8064-90bfaf52d16c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State and City'])[1]/preceding::label[2]</value>
+      <webElementGuid>3238b351-68d7-45a8-b101-5357af8f0d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select picture']/parent::*</value>
+      <webElementGuid>0701e7e5-9596-4d70-99ea-0b02c27d0d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/label</value>
+      <webElementGuid>6cf0abf9-e60c-459f-9b81-a7f1e0818e60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Select picture' or . = 'Select picture')]</value>
+      <webElementGuid>0e6fdf81-3114-450c-bcda-653299099519</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
